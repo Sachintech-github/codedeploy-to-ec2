@@ -10,18 +10,18 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: blue;
+    background: #941d1d;
     font-family: 'Roboto', sans-serif;
 }
 section.chat__section {
     width: 400px;
     max-width: 90%;
-    background: #fff;
+    background: rgb(86, 111, 250);
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 .brand {
     padding: 0px;
-    background: #36454f;
+    background: #749eb9;
     display: flex;
     align-items: center;
 }
@@ -56,12 +56,12 @@ textarea {
     position: relative;
 }
 .incoming {
-    background: #7CFC00;
+    background: #299c8d;
     color: #000000; 
     margin-right: auto;
 }
 .outgoing {
-    background: #FA8072;
+    background: #c7685e;
     color: #000000;
     margin-left: auto;
 }
