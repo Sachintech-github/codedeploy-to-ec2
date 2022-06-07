@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: lightgreen url("img_tree.gif") no-repeat fixed right;
+    background: lightblue;
     font-family: 'Roboto', sans-serif;
 }
 section.chat__section {
